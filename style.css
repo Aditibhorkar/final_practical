@@ -1,0 +1,19 @@
+.title
+{
+    font-weight: bolder;
+    font-family: Lucida Console;
+    text-align: center;
+    background-color: rgb(189, 129, 52);
+    font-size: large;
+}
+.details           
+{
+    /* font-weight: bolder; */
+    font-family:cursive;
+    background-color: antiquewhite;
+   
+}
+.body
+{
+    background-color: darkgray;
+}
